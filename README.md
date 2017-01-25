@@ -1,2 +1,2 @@
 # mysql
-Study routines
+Study routines using PHP and mySQL.
