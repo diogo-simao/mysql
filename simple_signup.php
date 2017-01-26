@@ -56,10 +56,11 @@
  ?>
 
 <h3>Please fullfil the form below</h3>
+
 <form method="POST">
-    
+	
     <input name="email" type="text" placeholder="Email Address">
     <input name="password" type="text" placeholder="Password">
     <input type="submit" id="submitButton" value="Sign Up!">
-    
+	
 </form>
