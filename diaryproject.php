@@ -88,7 +88,7 @@ $error= "";
         <input type="checkbox" name="stayLoggedIn" value="1">
         <input type="submit" value="Sign Up!" name="submit">
     </fieldset>
-<!-- Inputs for logging in -->   
+<!-- Inputs for log in  -->   
     <fieldset>
         <input name="logInEmail" type="text" placeholder="e.g. myemail@domain.com">
         <input name="logInPassword" type="password" placeholder="Password">
