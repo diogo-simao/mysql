@@ -1,6 +1,6 @@
 <?php
 
-// Global variable because if its empty, an undefined index is generated - Have to solve this later.
+// Global variable because if its empty, an undefined index error is generated - Have to solve this later.
 
 $error= "";
 
